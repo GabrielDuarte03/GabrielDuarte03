@@ -1,16 +1,17 @@
-### Hi there 👋
+ ### Olá, meu nome é Gabriel Duarte! 👋
 
-<!--
-**GabrielDuarte03/GabrielDuarte03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Estudante de Desenvolvimento de Sistemas <br>
+- 🇧🇷 São Paulo - SP, Brasil <br>
+- 💻 Preferência em Java (mobile) <br>
 
-Here are some ideas to get you started:
+### Gostou dos projetos? Me encontre:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 [WhatsApp](https://wa.me/5511981224856) <br>
+
+💼 [LinkedIn](https://www.linkedin.com/in/gabrielduarte5/) <br>
+
+
+
+
+
+
