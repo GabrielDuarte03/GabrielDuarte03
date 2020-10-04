@@ -10,7 +10,7 @@
 
 💼 [LinkedIn](https://www.linkedin.com/in/gabrielduarte5/) <br>
 
-👨‍💻 [URI Online Judge] (https://www.urionlinejudge.com.br/judge/pt/profile/337005) <br>
+👨‍💻 [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/profile/337005) <br>
 
 
 
