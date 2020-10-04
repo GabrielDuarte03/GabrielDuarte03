@@ -1,6 +1,7 @@
  ### Olá, meu nome é Gabriel Duarte! 👋
 
 - 📚 Estudante de Desenvolvimento de Sistemas <br>
+- 🎂 17 anos <br>
 - 🇧🇷 São Paulo - SP, Brasil <br>
 - 💻 Preferência em Java (mobile) <br>
 
